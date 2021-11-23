@@ -4,7 +4,7 @@
 
 > My first project in microverse following the professional standard of using github
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app-screenshot.png)
 
 Additional description about the project and its features.
 
@@ -13,9 +13,9 @@ Additional description about the project and its features.
 - HTML
 - CSS
 
-## Live Demo
+<!-- ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://livedemo.com) -->
 
 
 ## Getting Started
